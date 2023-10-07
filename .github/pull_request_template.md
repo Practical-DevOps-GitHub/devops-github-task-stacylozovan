@@ -11,4 +11,4 @@ Please provide a brief description of the changes made in this pull request.
 - [ ] I have performed a self-review of my code.
 - [ ] If it is a core feature, I have added thorough tests.
 - [ ] Do we need to implement analytics? (Yes/No)
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update: [Add update description here]
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update: [Add update description here].
